@@ -1,0 +1,20 @@
+{
+  "name": "tiny-scrapper",
+  "version": "1.0.0",
+  "description": "simple app to scrape the given url and store it as json",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "scrapping"
+  ],
+  "author": "neerajrd25",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  }
+}
