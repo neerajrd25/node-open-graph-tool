@@ -1,4 +1,4 @@
-# A Simple node app the extract Open Graph Tags (og:*)
+# A Simple node app to extract Open Graph Tags (og:*) from a web page
 
 ## System Requirements & Run Instruitons
 
